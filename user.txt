@@ -1,4 +1,0 @@
-Admin, Adm1n
-Username1, Incorrect1
-Username2, John12
-Username3, Password0
